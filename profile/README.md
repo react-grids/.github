@@ -23,9 +23,33 @@
 
 ## 📺 Watch the walkthroughs
 
-| | |
-|---|---|
-| [<img src="https://img.youtube.com/vi/yfMnSccmQqU/hqdefault.jpg" width="320">](https://youtu.be/yfMnSccmQqU) | **Build a React Data Grid from the Ignite UI CLI with Claude Code**<br>Scaffolds the React app with the Ignite UI CLI, wires up MCP servers and Agent Skills, and uses Claude Code to build the full enterprise grid experience.<br><br>▶️ <https://youtu.be/yfMnSccmQqU> |
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://youtu.be/yfMnSccmQqU"><img src="https://img.youtube.com/vi/yfMnSccmQqU/hqdefault.jpg" width="100%"></a>
+      <br>
+      <strong><a href="https://youtu.be/yfMnSccmQqU">React Data Grid Tutorial: Ignite UI CLI, Claude Code &amp; MCP</a></strong>
+      <br>
+      <sub>Scaffolds the React app with the Ignite UI CLI, wires up MCP servers and Agent Skills, and uses Claude Code to build the full enterprise grid experience.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://youtu.be/e-pWZ8WJLWU"><img src="https://img.youtube.com/vi/e-pWZ8WJLWU/hqdefault.jpg" width="100%"></a>
+      <br>
+      <strong><a href="https://youtu.be/e-pWZ8WJLWU">React Data Grid Tutorial with Claude Code, MCP Servers &amp; Ignite UI</a></strong>
+      <br>
+      <sub>Adds Ignite UI for React to an existing React app, configures Agent Skills and MCP servers, and uses Claude Code to generate and enhance an invoices grid.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://youtu.be/U4wLzG39SXI"><img src="https://img.youtube.com/vi/U4wLzG39SXI/hqdefault.jpg" width="100%"></a>
+      <br>
+      <strong><a href="https://youtu.be/U4wLzG39SXI">React Data Grid Explained: Features Every Enterprise React App Needs</a></strong>
+      <br>
+      <sub>A tour of the enterprise features that matter — virtualization, Excel-style filtering, grouping, pinning, accessibility, real-time binding, and export.</sub>
+    </td>
+  </tr>
+</table>
+
+▶️ Full playlist coming soon.
 
 ## 📝 Read the blog
 
