@@ -1,4 +1,4 @@
-<h1 align="center">react-grids</h1>
+<h1 align="center">React Grids</h1>
 
 <p align="center">
   <strong>Build enterprise React data-grid apps faster with Ignite UI for React + AI-assisted workflows.</strong>
