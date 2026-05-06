@@ -68,6 +68,10 @@
 
 Walks through two AI-assisted workflows — adding Ignite UI to an existing React app, and starting from the Ignite UI CLI — and explains how Agent Skills and MCP servers feed real component context to the agent so it generates code that actually works.
 
+**[React Tree Grid vs Hierarchical Grid: Which to Use?](https://www.infragistics.com/blogs/react-tree-grid-vs-hierarchical-grid)**
+
+Choosing between a React Tree Grid and a Hierarchical Grid can significantly impact your app’s performance, usability, and scalability. While both components handle hierarchical data, they serve different purposes.
+
 ---
 
 ## 🗂 Repositories
