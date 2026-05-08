@@ -55,7 +55,13 @@
       <br>
       <sub>Builds a full CRUD workflow with Ignite UI for React, covering create, edit, delete, and practical data-grid app structure.</sub>
     </td>
-    <td width="33%" align="center"></td>
+    <td width="33%" align="center">
+      <a href="https://youtu.be/ghK5Yo0wUL0"><img src="https://img.youtube.com/vi/ghK5Yo0wUL0/hqdefault.jpg" width="100%"></a>
+      <br>
+      <strong><a href="https://youtu.be/ghK5Yo0wUL0">React Data Grid Accessibility Tutorial with Ignite UI for React</a></strong>
+      <br>
+      <sub>Covers practical accessibility patterns for React Data Grid apps, including keyboard support, screen reader considerations, and inclusive UX details.</sub>
+    </td>
     <td width="33%" align="center"></td>
   </tr>
 </table>
@@ -80,6 +86,7 @@ Choosing between a React Tree Grid and a Hierarchical Grid can significantly imp
 |---|---|
 | [**ignite-ui-react-data-grid-cli**](https://github.com/react-grids/ignite-ui-react-data-grid-cli) | Full enterprise React Data Grid built with the Ignite UI CLI + Claude Code: 26 columns, grouping, Excel-style filtering, paging, multi-row selection, pinning (left + right), Excel export, custom cell templates, eight built-in themes, a custom **Aurora Ops** theme, and a portal-rendered customer tooltip with a sparkline. |
 | [**react-data-grids-crud**](https://github.com/react-grids/react-data-grids-crud) | CRUD-focused React Data Grid sample showing practical add, edit, and delete flows in an Ignite UI for React app. |
+| [**react-data-grid-accessibility**](https://github.com/react-grids/react-data-grid-accessibility) | Accessibility-focused React Data Grid sample covering keyboard navigation, screen reader support, and inclusive grid UX patterns in Ignite UI for React. |
 | [**ignite-ui-react-data-grid-mcp-how-to**](https://github.com/react-grids/ignite-ui-react-data-grid-mcp-how-to) | Step-by-step how-to for wiring up the Ignite UI CLI MCP server and Theming MCP server with Claude Code (and other AI clients) so the agent has live access to component docs, API references, and design tokens. |
 | [**igr-datagrid-treegrid**](https://github.com/react-grids/igr-datagrid-treegrid) | Side-by-side comparison of the Ignite UI React **Data Grid** and **Tree Grid** — when to pick each, and how their APIs overlap. |
 | [**igr-datagrid-hierarchical**](https://github.com/react-grids/igr-datagrid-hierarchical) | **Data Grid** versus **Hierarchical Grid** — master/detail patterns, child row islands, and remote loading. |
