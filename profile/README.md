@@ -68,6 +68,14 @@
 
 ▶️ Full playlist coming soon.
 
+## 📈 Featured app — FinTrader Pro
+
+A professional equities trading workstation built with React 19 + Ignite UI for React — dockable panels, a candlestick chart, a sector heat-map, and six live data grids driven by a streaming tick engine.
+
+<p align="center">
+  <a href="https://github.com/react-grids/react-stock-trader-app"><img src="https://github.com/react-grids/react-stock-trader-app/raw/main/docs/screenshot.png" width="100%" alt="FinTrader Pro trading workstation — dark theme, candlestick chart, watchlist, Level II order book, and grouped order blotter built with Ignite UI for React"></a>
+</p>
+
 ## 📝 Read the blog
 
 **[Build a React Data Grid with Claude Code, Ignite UI CLI, and MCP Servers](https://www.infragistics.com/blogs/react-data-grid-claude-code)**
@@ -84,6 +92,7 @@ Choosing between a React Tree Grid and a Hierarchical Grid can significantly imp
 
 | Repo | What it shows |
 |---|---|
+| [**react-stock-trader-app**](https://github.com/react-grids/react-stock-trader-app) | **FinTrader Pro** — a professional equities trading workstation built with React 19 + Ignite UI for React: a dockable workspace (`IgrDockManager`), candlestick chart with volume and range selector (`IgrFinancialChart`), a Finviz-style sector heat-map (`IgrTreemap`), six live data grids (watchlist, positions, 1,000-order blotter, market data, Level II depth, Time &amp; Sales), conditional cell styling, linked cross-grid selection, a ~1s streaming tick engine, and runtime theming across Light/Dark × Material/Bootstrap/Fluent/Indigo. |
 | [**ignite-ui-react-data-grid-cli**](https://github.com/react-grids/ignite-ui-react-data-grid-cli) | Full enterprise React Data Grid built with the Ignite UI CLI + Claude Code: 26 columns, grouping, Excel-style filtering, paging, multi-row selection, pinning (left + right), Excel export, custom cell templates, eight built-in themes, a custom **Aurora Ops** theme, and a portal-rendered customer tooltip with a sparkline. |
 | [**react-data-grids-crud**](https://github.com/react-grids/react-data-grids-crud) | CRUD-focused React Data Grid sample showing practical add, edit, and delete flows in an Ignite UI for React app. |
 | [**react-data-grid-accessibility**](https://github.com/react-grids/react-data-grid-accessibility) | Accessibility-focused React Data Grid sample covering keyboard navigation, screen reader support, and inclusive grid UX patterns in Ignite UI for React. |
