@@ -72,6 +72,8 @@
 
 A professional equities trading workstation built with React 19 + Ignite UI for React — dockable panels, a candlestick chart, a sector heat-map, and six live data grids driven by a streaming tick engine.
 
+🔗 **[Live demo](https://react-grids.github.io/react-stock-trader-app/)** · [Repo](https://github.com/react-grids/react-stock-trader-app)
+
 <p align="center">
   <a href="https://github.com/react-grids/react-stock-trader-app"><img src="https://github.com/react-grids/react-stock-trader-app/raw/main/docs/screenshot.png" width="100%" alt="FinTrader Pro trading workstation — dark theme, candlestick chart, watchlist, Level II order book, and grouped order blotter built with Ignite UI for React"></a>
 </p>
@@ -79,6 +81,8 @@ A professional equities trading workstation built with React 19 + Ignite UI for 
 ## 🛰 Featured app — NEBULA OPS
 
 A real-time operations dashboard built with React 19 + Ignite UI for React — a draggable, resizable Tile Manager with persisted layouts, an advanced Data Grid with per-row sparklines, and live streaming charts, donut charts, and treemaps.
+
+🔗 **[Live demo](https://react-grids.github.io/react-ops-dashboard/)** · [Repo](https://github.com/react-grids/react-ops-dashboard)
 
 <p align="center">
   <a href="https://github.com/react-grids/react-ops-dashboard"><img src="https://github.com/react-grids/react-ops-dashboard/raw/master/docs/images/nebula-ops-dashboard.png" width="100%" alt="NEBULA OPS real-time operations dashboard — draggable Tile Manager, advanced Data Grid with sparklines, streaming area charts, donut charts, and treemaps built with Ignite UI for React"></a>
